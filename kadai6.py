@@ -29,4 +29,3 @@ def is_between(x, y, z):
         return False
 
 print is_between(2,4,6)
-
