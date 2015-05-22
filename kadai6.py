@@ -24,7 +24,7 @@ print hypotenuse(3,4)
 #練習問題6.3
 def is_between(x, y, z):
     if x <= y <=z:
-		return True
+	return True
     else:
         return False
 
