@@ -1,6 +1,6 @@
 import math
 
-#6.1
+#練習問題6.1
 def compare(x,y):
 	if x > y:
 		return 1
@@ -13,7 +13,7 @@ print compare(2,1)
 print compare(1,2)
 print compare(1,1)
 
-#6.2    
+#練習問題6.2    
 def hypotenuse(x,y):
     square = x**2 + y**2
     z = math.sqrt(square)
@@ -21,7 +21,7 @@ def hypotenuse(x,y):
     
 print hypotenuse(3,4)
     
-#6.3
+#練習問題6.3
 def is_between(x, y, z):
     if x <= y <=z:
 		return True
